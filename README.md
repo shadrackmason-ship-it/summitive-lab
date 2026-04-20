@@ -1,6 +1,6 @@
-# 📚 Wordly Dictionary SPA
+#  Wordly Dictionary SPA
 
-## 🌍 Project Overview
+## Project Overview
 
 Wordly Dictionary SPA is a Single Page Application (SPA) that allows users to search for English words and instantly retrieve their meanings, pronunciations, synonyms, and audio pronunciation. The application fetches real-time data from a public dictionary API and dynamically updates the page without requiring a refresh.
 
@@ -8,24 +8,24 @@ This project demonstrates practical skills in modern frontend development, inclu
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 🔎 Word search functionality
-- 📖 Displays word definitions and meanings
-- 🗣️ Shows phonetic pronunciation
-- 🔊 Audio pronunciation playback (when available)
-- ⚡ Real-time API fetching using fetch/async-await
-- 🔁 Dynamic updates without page reload
-- ⚠️ Error handling for invalid or empty inputs
-- 🎨 Clean and responsive user interface
+-  Word search functionality
+-  Displays word definitions and meanings
+-  Shows phonetic pronunciation
+-  Audio pronunciation playback (when available)
+-  Real-time API fetching using fetch/async-await
+-  Dynamic updates without page reload
+-  Error handling for invalid or empty inputs
+-  Clean and responsive user interface
 
 ---
 
-## 🌐 API Used
+##  API Used
 
 This project uses the **Free Dictionary API**:
 
-👉 https://api.dictionaryapi.dev/
+ https://api.dictionaryapi.dev/
 
 ### The API provides:
 - Word definitions
@@ -36,11 +36,11 @@ This project uses the **Free Dictionary API**:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ---
 
-## ⚙️ How the Application Works
+## How the Application Works
 
 1. User enters a word in the search input field
 2. JavaScript listens for form submission
@@ -56,7 +56,7 @@ This project uses the **Free Dictionary API**:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -67,7 +67,7 @@ This project uses the **Free Dictionary API**:
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+##  Key Concepts Demonstrated
 
 - Single Page Application (SPA) development
 - Asynchronous JavaScript (fetch API)
@@ -78,7 +78,7 @@ This project uses the **Free Dictionary API**:
 
 ---
 
-## ⚠️ Error Handling
+## Error Handling
 
 The application handles multiple edge cases:
 
@@ -89,22 +89,22 @@ The application handles multiple edge cases:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
-- 🌙 Dark mode toggle
-- ⭐ Save favorite words using localStorage
-- 📜 Search history feature
-- 🌍 Multi-language support
-- 🎨 Improved UI animations and transitions
+-  Dark mode toggle
+-  Save favorite words using localStorage
+-  Search history feature
+- Multi-language support
+- Improved UI animations and transitions
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as part of a JavaScript SPA lab focused on API integration and modern frontend development skills.
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes only.
